@@ -53,18 +53,18 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 310 2808398",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "feimai.fv@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Facebook",
+        "description": "carpintería la Mona",
+        "icon": "/assets/images/facebook.jpg"
       },
       {
         "name": "Facebook",
